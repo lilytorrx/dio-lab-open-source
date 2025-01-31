@@ -27,11 +27,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 
 ## 📂 Projetos Destacados
 
-Aqui estão alguns dos meus projetos favoritos:
-
-1. **[Nome do Projeto 1](link)** - Breve descrição do projeto.
-2. **[Nome do Projeto 2](link)** - Breve descrição do projeto.
-3. **[Nome do Projeto 3](link)** - Breve descrição do projeto.
+- Atualmente não possuo projetos de grande porte, apenas estudos. Conforme for estudando mais e mais, vou criando e adicionando os projetos.
 
 
 ----
